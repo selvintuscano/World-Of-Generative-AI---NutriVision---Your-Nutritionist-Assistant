@@ -1,4 +1,4 @@
-# World-Of-Generative-AI---NutriVision---Your-Nutritionist-Assistant
+# World-Of-Generative-AI-NutriVision-Your-Nutritionist-Assistant
 
 YouTube Link -> https://youtu.be/zjhwuw7XQeE
 
