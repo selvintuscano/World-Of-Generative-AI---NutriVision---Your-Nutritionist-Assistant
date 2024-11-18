@@ -1,0 +1,26 @@
+/* style.css */
+body {
+    background-color: #f0f2f6;
+}
+
+.stTextInput>div>div>input {
+    border-radius: 20px;
+}
+
+.stButton>button {
+    border-radius: 20px;
+    border: 1px solid #4CAF50;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.stButton>button:hover {
+    background-color: #45a049;
+}
+
+.stFileUploader>div>div>div>button {
+    border-radius: 20px !important;
+}
